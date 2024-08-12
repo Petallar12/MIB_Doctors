@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MIB_Doctors/static/css/main.6431b070.css",
+    "main.js": "/MIB_Doctors/static/js/main.79d069cf.js",
+    "static/js/453.5d92bdc4.chunk.js": "/MIB_Doctors/static/js/453.5d92bdc4.chunk.js",
+    "static/media/default.jpg": "/MIB_Doctors/static/media/default.69f25d96ff88994381dd.jpg",
+    "index.html": "/MIB_Doctors/index.html",
+    "main.6431b070.css.map": "/MIB_Doctors/static/css/main.6431b070.css.map",
+    "main.79d069cf.js.map": "/MIB_Doctors/static/js/main.79d069cf.js.map",
+    "453.5d92bdc4.chunk.js.map": "/MIB_Doctors/static/js/453.5d92bdc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6431b070.css",
+    "static/js/main.79d069cf.js"
+  ]
+}
